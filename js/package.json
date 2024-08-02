@@ -1,0 +1,31 @@
+{
+  "name": "gbcl-fof-upload-qcloud",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "dplayer": "^1.27.1",
+    "pdfobject": "^2.2.8"
+  },
+  "devDependencies": {
+    "@babel/register": "^7.24.6",
+    "@babel/traverse": "^7.25.3",
+    "@types/dplayer": "^1.25.5",
+    "@types/mithril": "^2.0.12",
+    "@types/node": "^22.0.2",
+    "@types/pdfobject": "^2.2.5",
+    "@types/webpack": "^5.28.5",
+    "flarum-tsconfig": "^1.0.2",
+    "flarum-webpack-config": "^2.0.2",
+    "json5": "^2.2.3",
+    "loader-utils": "^3.3.1",
+    "ts-loader": "^9.5.1",
+    "typescript": "^4.5.4",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  }
+}
