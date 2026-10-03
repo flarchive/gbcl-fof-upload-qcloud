@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of gbcl/fof-upload-qcloud.** Not for installation: use [Packagist](https://packagist.org/packages/gbcl/fof-upload-qcloud) or the [upstream repository](https://github.com/GBCLStudio/fof-upload-qcloud).
 
-**0** versions archived · Latest: [`1.3.0.2`](https://github.com/flarchive/gbcl-fof-upload-qcloud/tree/archive/v1.3.0.2) · License: `MIT`
+**4** versions archived · Latest: [`1.3.0.2`](https://github.com/flarchive/gbcl-fof-upload-qcloud/tree/archive/v1.3.0.2) · License: `MIT`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.2.2` | 2024-02-18 | — | [Browse](https://github.com/flarchive/gbcl-fof-upload-qcloud/tree/archive/v1.2.2) |
+| `1.3.0` | 2024-08-02 | — | [Browse](https://github.com/flarchive/gbcl-fof-upload-qcloud/tree/archive/v1.3.0) |
+| `1.3.0.1` | 2024-08-02 | — | [Browse](https://github.com/flarchive/gbcl-fof-upload-qcloud/tree/archive/v1.3.0.1) |
+| `1.3.0.2` | 2024-08-02 | — | [Browse](https://github.com/flarchive/gbcl-fof-upload-qcloud/tree/archive/v1.3.0.2) |
 
 Catalog entry: [packages/gbcl-fof-upload-qcloud.json](https://github.com/flarchive/archive-index/blob/main/packages/gbcl-fof-upload-qcloud.json)
 
